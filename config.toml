@@ -1,9 +1,9 @@
-baseURL = "https://example.com/"
+baseURL = "https://experimental-vegan.com/"
 languageCode = "en-US"
-title = "My New Hugo Site"
+title = "Experimental Vegan: Open Source Cooking"
 theme = "bootstrap-bp-hugo-theme"
 # googleAnalytics = "UA-123-45"
-copyright = "Sebastian Pech"
+copyright = "Vincent Giles"
 enableRobotsTXT = true
 pygmentsCodeFences = true
 canonifyurls = true
@@ -19,11 +19,11 @@ paginate = 5
     pages = "/:slug/"
     page = "/:slug/"
 
-[Author]  
-  name = "Sebastian Pech"
+#[Author]  
+#  name = "Sebastian Pech"
 
 [params]
-  description = "Text about the site"
+  description = "This website is the front end for an open source vegan cooking project"
   #images = ["logo.jpg"]
   showPostSummary = true
   startPageColumns = true
