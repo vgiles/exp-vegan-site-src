@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Spelt Bread Bread Machine [v 0.9]"
 date: 2015-03-01 21:23:29 +1100
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Buckwheat Soba Noodle Salad [v 0.2]"
 date: 2015-02-01 21:23:29 +1100
 categories:

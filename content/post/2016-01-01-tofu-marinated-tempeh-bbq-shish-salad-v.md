@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Tofu Marinated Tempeh BBQ Shish + Salad"
 date: 2016-01-01 21:23:29 +1100
 categories:

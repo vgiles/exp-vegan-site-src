@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Banana Cake it's basically Superfood"
 date: 2015-10-01 21:23:29 +1100
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Peanut Butter v0.1"
 date: 2015-05-01 21:23:29 +1100
 categories:

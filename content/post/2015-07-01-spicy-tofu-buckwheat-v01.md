@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Spicy Tofu Buckwheat v0.1"
 date: 2015-07-01 21:23:29 +1100
 categories:

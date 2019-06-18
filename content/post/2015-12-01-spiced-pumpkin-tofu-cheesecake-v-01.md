@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Spiced Pumpkin Tofu Cheesecake v0.1"
 date: 2015-12-01 21:23:29 +1100
 categories:

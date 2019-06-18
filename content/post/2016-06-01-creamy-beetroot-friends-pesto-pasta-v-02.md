@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Creamy Beetroot & Friends Pesto Pasta v0.2"
 date: 2016-06-01 21:23:29 +1100
 categories:

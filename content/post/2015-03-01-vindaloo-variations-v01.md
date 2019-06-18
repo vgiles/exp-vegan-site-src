@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Variation on a Vindaloo[v 0.1]"
 date: 2015-03-01 21:23:29 +1100
 categories:

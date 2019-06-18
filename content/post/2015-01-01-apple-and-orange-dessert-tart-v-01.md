@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Apple and Orange Dessert Tart [v. 0.1]"
 date: 2015-01-01 21:23:29 +1100
 categories:

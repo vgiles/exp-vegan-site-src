@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Banana Sticky Rice Breakfast Fun v0.1"
 date: 2015-09-01 21:23:29 +1100
 categories:

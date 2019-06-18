@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Not Very Experimental Vegan Anzac Biscuits [v 1.0]"
 date: 2015-02-01 21:23:29 +1100
 categories:

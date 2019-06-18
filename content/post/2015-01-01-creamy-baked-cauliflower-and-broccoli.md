@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Creamy Baked Cauliflower and Broccoli with Basil & Tomato [v. 0.1]"
 date: 2015-01-01 21:23:29 +1100
 categories:

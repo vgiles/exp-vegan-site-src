@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Creamy Salad Dressing v0.1"
 date: 2015-10-01 21:23:29 +1100
 categories:
