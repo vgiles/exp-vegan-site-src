@@ -3,10 +3,6 @@ languageCode = "en-us"
 title = "Experimental Vegan"
 theme = "hugo-paper"
 
-[params]
-    navigation = ["/about/", "/"]
-    style = "2"
-
 [menu]
   [[menu.main]]
     identifier = "about"
