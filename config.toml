@@ -1,30 +1,27 @@
-# theme.toml template for a Hugo theme
-# See https://github.com/gohugoio/hugoThemes#themetoml for an example
 baseURL = "https://expvegan.onrender.com/"
 languageCode = "en-us"
 title = "Experimental Vegan"
-theme = "onetwothree"
-
-name = "Experimental Vegan"
-license = "MIT"
-licenselink = "https://github.com/schollz/onetwothree/blob/master/LICENSE.md"
-description = "Experimental Vegan: Open Source Recipes"
-homepage = "http://experimental-vegan.com"
-#tags = ["minimal","mobile","responsive","elegant"]
-#features = ["image captioning"]
-#min_version = "0.27.1"
-
-#[author]
-#  name = "Zack Scholl"
-#  homepage = "https://schollz.github.io/"
-
-# If porting an existing theme
-#[original]
-#  name = ""
-#  homepage = ""
-#  repo = ""
+theme = "hugo-paper"
 
 [params]
-#    twitter = "yakczar"
-    navigation = ["about.md"]
+    navigation = ["/about/", "/"]
     style = "2"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "about exp-vegan"
+    url = "/about/"
+    weight = -110
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "get in touch/participate"
+    url = "/contact/"
+    weight = -100
+
+  [[menu.main]]
+    identifier = "source"
+    name = "view recipe source"
+    url = "https://github.com/vgiles/exp-vegan-site-src"
+    weight = -80
