@@ -2,7 +2,6 @@
 layout: single
 title: "Apple and Orange Dessert Tart [v. 0.1]"
 date: 2015-01-01 21:23:29 +1100
-categories:
 ---
 This post follows on directly from the
 [former](http://vegancomposition.blogspot.com.au/2015/01/onion-eggplant-tomato-savoury-tart-v-01.html),
