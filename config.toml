@@ -1,4 +1,4 @@
-baseURL = "https://expvegan.onrender.com/"
+baseURL = "https://experimental-vegan.com/"
 languageCode = "en-us"
 title = "Experimental Vegan"
 theme = "hugo-paper"
