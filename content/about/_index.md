@@ -8,6 +8,9 @@ date: 2019-06-19
 
 exp-vegan is a project to create recipes in an open-source way, using github. 
 
+Note: most of the first generation of recipes (dated pre-2019) are a port from the former blogspot site, over time this will be
+cleaned up, but for now there are some interesting inconsistencies with embedded images and other stuff. The recipes work just fine though.
+
 ## The idea:
 
 Open source recipes to contribute to the large archive of vegan recipes that exist. The term 'experimental' here is to indicate
