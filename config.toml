@@ -13,7 +13,7 @@ theme = "hugo-paper"
   [[menu.main]]
     identifier = "contact"
     name = "get in touch/participate"
-    url = "/contact/"
+    url = "mailto:charles.maroux@gmail.com"
     weight = -100
 
   [[menu.main]]
