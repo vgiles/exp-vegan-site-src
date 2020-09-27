@@ -1,4 +1,3 @@
-
 [submodule "hugo-book"]
 	path = themes/hugo-book
 	url = https://github.com/vgiles/hugo-book
