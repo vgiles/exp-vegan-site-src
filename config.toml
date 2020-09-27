@@ -2,7 +2,7 @@
 
 baseURL = 'https://expvegan.onrender.com/'
 title = 'experimental vegan'
-theme = 'theme/hugo-book'
+theme = 'hugo-book'
 
 # Book configuration
 disablePathToLower = true
