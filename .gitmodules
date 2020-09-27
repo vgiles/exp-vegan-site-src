@@ -4,3 +4,6 @@
 [submodule "themes/hugo-paper"]
 	path = themes/hugo-paper
 	url = /themes/hugo-paper
+[submodule "themes/book"]
+	path = themes/book
+	url = https://github.com/alex-shpak/hugo-book
